@@ -11,7 +11,7 @@ export default function Header() {
                 fontVariationSettings: '"slnt" -10' 
               }}
             >
-              Lazaro Feijoo
+              {"< "}Lazaro Feijoo{" />"}
             </span>
             <span 
               className="font-light text-xs tracking-widest"
